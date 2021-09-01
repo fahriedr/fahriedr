@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello, my name is Fahrie Dwiki Ramadhan. I am a Fullstack Web Developer with one years of experience. My technology stack involves HTML, CSS, Javascript, Jquery, Bootstrap, PHP, MySQL, Laravel, CI, and ReactJS.
+Hello, my name is Fahrie Dwiki Ramadhan. I am a Fullstack Web Developer with one years of experience. My technology stack involves HTML, CSS, Javascript, Jquery, Bootstrap, PHP, MySQL, Laravel, CI, ReactJS and NextJs.
 
 - 📫 How to reach me: fahriramadhan234@gmail.com
 
