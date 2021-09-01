@@ -30,6 +30,8 @@ Hello, my name is Fahrie Dwiki Ramadhan. I am a Fullstack Web Developer with one
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-black?logo=laravel&style=social)&nbsp;&nbsp;
 ![ReactJS](https://img.shields.io/badge/-ReactJS-black?logo=react&style=social)&nbsp;&nbsp;
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;&nbsp;
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![Gitlab](https://img.shields.io/badge/-Gitlab-black?logo=gitlab&style=social)&nbsp;&nbsp;
