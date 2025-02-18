@@ -37,7 +37,9 @@ Hello, my name is Fahrie Dwiki Ramadhan. I am a Fullstack Web Developer with one
 ![Gitlab](https://img.shields.io/badge/-Gitlab-black?logo=gitlab&style=social)&nbsp;&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&style=social)&nbsp;&nbsp;
 
+<!--
 ![Fahrie's Github Stats](https://github-readme-stats.vercel.app/api?username=fahriedr&count_private=true&show_icons=true&include_all_commits=true)
+-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahriedr&layout=compact)
 
